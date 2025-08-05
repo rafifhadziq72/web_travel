@@ -37,13 +37,13 @@ const Footer = () => {
             <h4 className='mt-lg-0 mt-sm-3'>Company </h4>
             <ListGroup variant="flush">
               <ListGroup.Item>
-                <NavLink to="/">About Us</NavLink>
+                <NavLink to="/web_travel">About Us</NavLink>
               </ListGroup.Item>
               <ListGroup.Item>
-                <NavLink to="/">News</NavLink>
+                <NavLink to="/web_travel">News</NavLink>
               </ListGroup.Item>
               <ListGroup.Item>
-                <NavLink to="/">FaQ</NavLink>
+                <NavLink to="/web_travel">FaQ</NavLink>
               </ListGroup.Item>
             </ListGroup>
 
@@ -52,13 +52,13 @@ const Footer = () => {
             <h4 className='mt-lg-0 mt-sm-3'>Explore </h4>
             <ListGroup variant="flush">
               <ListGroup.Item>
-                <NavLink to="/"> Faq</NavLink>
+                <NavLink to="/web_travel"> Faq</NavLink>
               </ListGroup.Item>
               <ListGroup.Item>
-                <NavLink to="/">Tour Listings</NavLink>
+                <NavLink to="/web_travel">Tour Listings</NavLink>
               </ListGroup.Item>
               <ListGroup.Item>
-                <NavLink to="/"> Destination</NavLink>
+                <NavLink to="/web_travel"> Destination</NavLink>
               </ListGroup.Item>
             </ListGroup>
           </Col>
@@ -66,13 +66,13 @@ const Footer = () => {
             <h4 className='mt-lg-0 mt-sm-3'>Quick Link </h4>
             <ListGroup variant="flush">
               <ListGroup.Item>
-                <NavLink to="/"> Home</NavLink>
+                <NavLink to="/web_travel"> Home</NavLink>
               </ListGroup.Item>
               <ListGroup.Item>
-                <NavLink to="/">About Us </NavLink>
+                <NavLink to="/web_travel">About Us </NavLink>
               </ListGroup.Item>
               <ListGroup.Item>
-                <NavLink to="/"> Contact Us </NavLink>
+                <NavLink to="/web_travel"> Contact Us </NavLink>
               </ListGroup.Item>
             </ListGroup>
           </Col>

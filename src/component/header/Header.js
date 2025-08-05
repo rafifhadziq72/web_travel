@@ -35,7 +35,7 @@ const isSticky=(e)=>{
 
                         {/* logo section */}
                         <Navbar.Brand >
-                            <NavLink className='nav-link' to='/'>weekendmonks</NavLink>
+                            <NavLink className='nav-link' to='/web_travel'>weekendmonks</NavLink>
                         </Navbar.Brand>
                         {/* end logo section */}
 
@@ -57,9 +57,9 @@ const isSticky=(e)=>{
 
                             <Offcanvas.Body>
                                 <Nav className="justify-content-end flex-grow-1 pe-3">
-                                    <NavLink className='nav-link' to="/">Home</NavLink>
-                                    <NavLink className='nav-link' to="/">ABOUT US</NavLink>
-                                    <NavLink className='nav-link' to="/">TOURS</NavLink>
+                                    <NavLink className='nav-link' to="/web_travel">Home</NavLink>
+                                    <NavLink className='nav-link' to="/web_travel">ABOUT US</NavLink>
+                                    <NavLink className='nav-link' to="/web_travel">TOURS</NavLink>
 
                                     <NavDropdown
                                         title="DESTINATION"
@@ -70,8 +70,8 @@ const isSticky=(e)=>{
                                         <NavDropdown.Item href="#action4">FRANCE TOURS</NavDropdown.Item>
 
                                     </NavDropdown>
-                                    {/* <NavLink className='nav-link' to="/">GALERY</NavLink> */}
-                                    <NavLink className='nav-link' to="/">CONTACT </NavLink>
+                                    {/* <NavLink className='nav-link' to="/web_travel">GALERY</NavLink> */}
+                                    <NavLink className='nav-link' to="/web_travel">CONTACT </NavLink>
 
                                 </Nav>
 

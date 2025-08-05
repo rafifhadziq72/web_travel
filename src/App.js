@@ -10,7 +10,7 @@ function App() {
 
       <Header />
       <Routes>
-        <Route path='/' element={<Home />} />
+        <Route path='/web_travel' element={<Home />} />
       </Routes>
       <Footer />
       
