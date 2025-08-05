@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/web_travel/static/css/main.a65a117e.css",
+    "main.js": "/web_travel/static/js/main.b79a0836.js",
+    "static/media/1.png": "/web_travel/static/media/1.e7279a1b1bd849f8472e.png",
+    "static/media/2.png": "/web_travel/static/media/2.110866b0319e22b263bc.png",
+    "static/media/1.jpg": "/web_travel/static/media/1.07129e23a8b304a0adfa.jpg",
+    "static/media/nah-trang.png": "/web_travel/static/media/nah-trang.d49949ba1057fbc493b8.png",
+    "static/media/bali-1.png": "/web_travel/static/media/bali-1.c85c74b799778bf8625b.png",
+    "static/media/Discover Singapore.png": "/web_travel/static/media/Discover Singapore.33347062c143d09bd145.png",
+    "static/media/phuket.png": "/web_travel/static/media/phuket.863857e5b694b1f9ee14.png",
+    "static/media/bangkok.png": "/web_travel/static/media/bangkok.f83b97b413e651df9bce.png",
+    "static/media/Tokyo.png": "/web_travel/static/media/Tokyo.007e6059470eacded64c.png",
+    "static/media/cancun.png": "/web_travel/static/media/cancun.55ccabe2cc07eb10a076.png",
+    "static/media/LA Explorer.jpg": "/web_travel/static/media/LA Explorer.c6b67484bde15e9ea892.jpg",
+    "static/media/Anchorage To Santiago.jpg": "/web_travel/static/media/Anchorage To Santiago.5095070aab217bdae0b3.jpg",
+    "static/media/Anchorage To La Paz.jpg": "/web_travel/static/media/Anchorage To La Paz.58f36933fd858bc1d5c6.jpg",
+    "static/media/Anchorage To Quito.jpg": "/web_travel/static/media/Anchorage To Quito.4c81da2a601a5aadc5b4.jpg",
+    "static/media/Kiwiana Panorama.jpg": "/web_travel/static/media/Kiwiana Panorama.be0656934f5b3e6a2e8b.jpg",
+    "static/media/Cuzco To Anchorage.jpg": "/web_travel/static/media/Cuzco To Anchorage.f85ceff1d83acb24e1cb.jpg",
+    "static/media/Anchorage To Ushuaia.jpg": "/web_travel/static/media/Anchorage To Ushuaia.ce41c8b5cae1067df934.jpg",
+    "static/media/slick.svg": "/web_travel/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/web_travel/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/web_travel/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/web_travel/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/web_travel/index.html",
+    "main.a65a117e.css.map": "/web_travel/static/css/main.a65a117e.css.map",
+    "main.b79a0836.js.map": "/web_travel/static/js/main.b79a0836.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a65a117e.css",
+    "static/js/main.b79a0836.js"
+  ]
+}
